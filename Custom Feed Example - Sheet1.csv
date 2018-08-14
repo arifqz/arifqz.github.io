@@ -1,0 +1,3 @@
+condition:placementName,value:Fruit,value:FruitImage,value:LandingPage
+Placement A,Apples,https://cache-ssl.celtra.com/api//blobs/09d05edee227ac7a604d25a9c14ebbfd3a57f95b207e099559e123287fb8e5a4/download.jpg?transform=crush&quality=85,https://apple.com
+Placement B,Mango,https://cache-ssl.celtra.com/api//blobs/306c317bc8fc0a491264e3a2370876d35153855c10504060a2be05ac721db85c/mango-fresh-ready-to-eat.jpg?transform=crush&quality=85,https://shop.mango.com/preHome.faces
